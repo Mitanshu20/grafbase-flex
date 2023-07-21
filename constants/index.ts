@@ -2,7 +2,8 @@ export const NavLinks = [
   { href: '/', key: 'Inspiration', text: 'Inspiration' },
   { href: '/', key: 'Find Projects', text: 'Find Projects' },
   { href: '/', key: 'Learn Development', text: 'Learn Development' },
-  { href: '/', key: 'Career Advancement', text: 'Career Advancement' },
+  { href: 'https://chatcn-4033a.web.app/Login', key: 'Chat Support', text: 'Chat Support' },
+  { href: 'https://www.youtube.com/', key: 'Video Support', text: 'Video Support' },
   { href: '/', key: 'Hire Developers', text: 'Hire Developers' }
 ];
 
